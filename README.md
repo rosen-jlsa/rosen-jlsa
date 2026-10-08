@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rosen Todorov
 
-<!--
-**rosen-jlsa/rosen-jlsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications and explore practical software and infrastructure projects. My repositories cover Next.js and TypeScript, C#, Shopify theme work, Linux administration, and Docker experiments.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it contains |
+| --- | --- |
+| [Salon booking app](https://github.com/rosen-jlsa/project_1) | Next.js booking flow with specialist management, gallery, Supabase integration, and an admin approval workflow. |
+| [Library management project](https://github.com/rosen-jlsa/diplo-project-) | C# models and services for books, readers, and loans, with SQL schema and sample data. |
+| [Ticket system](https://github.com/rosen-jlsa/tickets-system) | C# ticket system with original and revised implementations. |
+| [Velorum sections](https://github.com/rosen-jlsa/Velorum-done) | Shopify theme section package and project notes. |
+
+## Learning and infrastructure
+
+- [Linux system administration notes](https://github.com/rosen-jlsa/sysAdmin) — training guides and portfolio files.
+- [Docker lab](https://github.com/rosen-jlsa/my-docker-lab) — container practice and remote access experiments with Tailscale.
+- [Software development exercises](https://github.com/rosen-jlsa/dev.software.school-11grade) — school exercises and C# practice.
+
+Explore each repository for its current code, documentation, and setup details.
