@@ -7,7 +7,7 @@ I build web applications and explore practical software and infrastructure proje
 | Project | What it contains |
 | --- | --- |
 | [Salon booking app](https://github.com/rosen-jlsa/project_1) | Next.js booking flow with specialist management, gallery, Supabase integration, and an admin approval workflow. |
-| [Library management project](https://github.com/rosen-jlsa/diplo-project-) | C# models and services for books, readers, and loans, with SQL schema and sample data. |
+| [Diplomatic mission manager](https://github.com/rosen-jlsa/diplo-project-) | C#/.NET console app for managing diplomats and missions, with LINQ search and reports. |
 | [Ticket system](https://github.com/rosen-jlsa/tickets-system) | C# ticket system with original and revised implementations. |
 | [Velorum sections](https://github.com/rosen-jlsa/Velorum-done) | Shopify theme section package and project notes. |
 
