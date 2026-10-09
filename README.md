@@ -14,7 +14,6 @@ I build web applications and explore practical software and infrastructure proje
 ## Learning and infrastructure
 
 - [Linux system administration notes](https://github.com/rosen-jlsa/sysAdmin) — training guides and portfolio files.
-- [Docker lab](https://github.com/rosen-jlsa/my-docker-lab) — container practice and remote access experiments with Tailscale.
 - [Software development exercises](https://github.com/rosen-jlsa/dev.software.school-11grade) — school exercises and C# practice.
 
 Explore each repository for its current code, documentation, and setup details.
